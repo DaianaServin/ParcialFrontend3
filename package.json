@@ -16,7 +16,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -47,5 +49,5 @@
   "bugs": {
     "url": "https://github.com/Frontend-III/entregable-frontend-3-junio22/issues"
   },
-  "homepage": "https://github.com/Frontend-III/entregable-frontend-3-junio22#readme"
+  "homepage":"https://DaianaServin.github.io/ParcialFrontend3" 
 }
