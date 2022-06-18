@@ -1,13 +1,13 @@
 {
-  "main.css": "/Frontend-III/entregable-frontend-3-junio22/static/css/main.108f2025.chunk.css",
-  "main.js": "/Frontend-III/entregable-frontend-3-junio22/static/js/main.23483e44.chunk.js",
-  "main.js.map": "/Frontend-III/entregable-frontend-3-junio22/static/js/main.23483e44.chunk.js.map",
-  "static/js/1.ff2aeb38.chunk.js": "/Frontend-III/entregable-frontend-3-junio22/static/js/1.ff2aeb38.chunk.js",
-  "static/js/1.ff2aeb38.chunk.js.map": "/Frontend-III/entregable-frontend-3-junio22/static/js/1.ff2aeb38.chunk.js.map",
-  "runtime~main.js": "/Frontend-III/entregable-frontend-3-junio22/static/js/runtime~main.e2f7f596.js",
-  "runtime~main.js.map": "/Frontend-III/entregable-frontend-3-junio22/static/js/runtime~main.e2f7f596.js.map",
-  "static/css/main.108f2025.chunk.css.map": "/Frontend-III/entregable-frontend-3-junio22/static/css/main.108f2025.chunk.css.map",
-  "index.html": "/Frontend-III/entregable-frontend-3-junio22/index.html",
-  "precache-manifest.637e1389b180df67d8017a7bf58d307d.js": "/Frontend-III/entregable-frontend-3-junio22/precache-manifest.637e1389b180df67d8017a7bf58d307d.js",
-  "service-worker.js": "/Frontend-III/entregable-frontend-3-junio22/service-worker.js"
+  "main.css": "/ParcialFrontend3/static/css/main.108f2025.chunk.css",
+  "main.js": "/ParcialFrontend3/static/js/main.23483e44.chunk.js",
+  "main.js.map": "/ParcialFrontend3/static/js/main.23483e44.chunk.js.map",
+  "static/js/1.ff2aeb38.chunk.js": "/ParcialFrontend3/static/js/1.ff2aeb38.chunk.js",
+  "static/js/1.ff2aeb38.chunk.js.map": "/ParcialFrontend3/static/js/1.ff2aeb38.chunk.js.map",
+  "runtime~main.js": "/ParcialFrontend3/static/js/runtime~main.1e4e9f17.js",
+  "runtime~main.js.map": "/ParcialFrontend3/static/js/runtime~main.1e4e9f17.js.map",
+  "static/css/main.108f2025.chunk.css.map": "/ParcialFrontend3/static/css/main.108f2025.chunk.css.map",
+  "index.html": "/ParcialFrontend3/index.html",
+  "precache-manifest.7c52c6920063d12f66a419784484e7f6.js": "/ParcialFrontend3/precache-manifest.7c52c6920063d12f66a419784484e7f6.js",
+  "service-worker.js": "/ParcialFrontend3/service-worker.js"
 }
