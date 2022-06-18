@@ -10,21 +10,26 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(233, 220, 236);
 }
 
 header {
-  background-color: #ddd;
+  background-color: rgb(187, 157, 235);
   padding: 20px 40px;
+  text-align: center;
 }
 header h1{
   margin-bottom: 10px;
+  color: rgb(133, 21, 163);
+  font-size: 35px;
+  text-shadow: 3px 3px 3px;
 }
 
-header p span {
-  background-color: black;
-  color: white;
+header p {
+  color: rgb(95, 31, 125);
   padding: 3px 5px;
   border-radius: 5px;
+  font-weight: bold;
 }
 
 .container {
@@ -35,7 +40,7 @@ header p span {
 }
 
 .producto {
-  border: 0.5px solid #ddd;
+  border: 0.5px solid rgb(177, 175, 175);
   padding: 20px;
   width: 33%;
   border-radius: 5px;
@@ -43,23 +48,54 @@ header p span {
   flex-direction: column;
   justify-content: space-between;
   gap: 10px;
+  box-shadow: 15px 10px 25px -20px;
+  text-align: center;
+}
+.producto h3{
+  color: rgb(144, 18, 172);
+}
+.producto p{
+  font-size: 12px;
 }
 
-.producto img{
-  width: 200px;
-}
 .producto h5{
   text-align: center;
 }
 
 .producto h5 span{
-  background-color: rgb(255, 178, 178);
+  background-color: rgb(170, 42, 182);
   padding: 3px;
   font-weight: lighter;
-  color: rgb(155, 0, 0);
+  color: rgb(120, 16, 136);
   border-radius: 3px;
 }
 .producto button{
-  padding: 5px;
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: medium;
   text-transform: uppercase;
+  border-radius: 20px;
+  background-color: rgb(189, 128, 219);
+  border-style: none;
+  width: 150px;
+  margin-left: 130px;
+}
+
+.producto button:hover{
+  background-color: rgb(78, 21, 106);
+  transition: all;
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
+  transform: scale(1.1) 
+}
+.producto button :disabled,button[disabled]{
+  background-color:rgb(78, 21, 106) ;
+  transition: none;
+  pointer-events: none;
+}
+
+.producto img{
+  width: 200px;
+  align-self: center;
 }
